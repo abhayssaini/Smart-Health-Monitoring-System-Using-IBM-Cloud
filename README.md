@@ -2,9 +2,7 @@
 
 # Introduction
 
-Creating Smart Health Monitoring System Using IOT. The
-Internet of Things (IOT) is how we describe the digitally connected universe of everyday
-physical devices. These devices are embedded with internet connectivity, sensors and other hardware that allow communication and control via the web.
+Creating Smart Health Monitoring System Using Cloud Internet of Things (IOT) platform.In this project the body temperature and pulse rate readings are taken from the sensors and are uploaded to IBM cloud IOT service by pythn code. After that real time data of sensors are send to the mobile app with the help of Node-RED application.
 
 
 
