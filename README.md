@@ -2,7 +2,7 @@
 
 # Introduction
 
-Creating Smart Health Monitoring System Using Cloud Internet of Things (IOT) platform.In this project the body temperature and pulse rate readings are taken from the sensors and are uploaded to IBM cloud IOT service by pythn code. After that real time data of sensors are send to the mobile app with the help of Node-RED application.
+Created Smart Health Monitoring System Using Cloud Internet of Things (IOT) platform. In this project, the body temperature and pulse rate readings are taken from the sensors and are uploaded to IBM cloud IOT service by python code. After that real time data of sensors are send to the mobile app with the help of Node-RED application. Apart from this, we will also get SMS alert in mobile phone when the detected readings are above or below the normal reading.
 
 
 
