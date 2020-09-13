@@ -27,6 +27,6 @@ For the end user we cannot provide the IBM IOT Credentials. So for that we need 
 
 The code generates the real time sensor reading which will be send to the cloud with the help of IBM IOT platform and will get IBM Watson Device credentials which are used in code for sending the data in IBM cloud.Then we created Node-red application service from IBM software and make connection through nodes to fetch the sensor data from the code and also use Dashboard node for creating UI (Web App). Now with help of HTTP node data are to store in URL. Through Node-red and this data will useful for fetching data for mobile app through MIT APP inventor. After that we can see the real time readings anywhere in mobile app.  
 
-Please go through the file for more detail:-
+Please go through the file for more detail:- [Output](https://github.com/abhayssaini/Smart-Health-Monitoring-System-Using-IBM-Cloud/blob/master/Output%20result%20for%20Smart%20Health%20Monitoring%20System.pdf)
 
  
